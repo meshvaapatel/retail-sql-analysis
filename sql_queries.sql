@@ -85,10 +85,10 @@ SELECT MIN(Price) AS MinPrice, MAX(Price) AS MaxPrice
 FROM pricing;
 
 -- 8. Highlight the Top 10 Best-Performing Products by Revenue, Categorized Accordingly
-SELECT p.ProductID, p.Category, SUM(d.SalesQuantity * d.Price) AS TotalRevenue
+SELECT p.ProductID, p.Category, p.SubCategory, SUM(d.SalesQuantity * d.Price) AS TotalRevenue
 FROM demand d
 JOIN product p ON d.ProductID = p.ProductID
-GROUP BY p.Category, p.ProductID
+GROUP BY p.Category, p.ProductID, p.SubCategory
 ORDER BY p.Category, TotalRevenue DESC
 limit 10;
 
@@ -140,10 +140,11 @@ FROM pricing
 WHERE SalesVolume > (SELECT AVG(SalesVolume) FROM pricing);
 
 -- 16. Rank Stores Based on Fastest Order Fulfillment Times (Top 5)
-SELECT StoreID, MIN(OrderFulfillmentTime) AS FastestTime
-FROM inventory
-GROUP BY StoreID
-ORDER BY FastestTime
+SELECT i.StoreID, d.StoreLocation, MIN(OrderFulfillmentTime) AS FastestTime
+FROM inventory i
+JOIN demand d ON i.StoreID = d.StoreID
+GROUP BY i.StoreID, d.StoreLocation
+ORDER BY FastestTime DESC
 LIMIT 5;
 
 -- 17. Find Managers Overseeing Multiple Store Locations	
