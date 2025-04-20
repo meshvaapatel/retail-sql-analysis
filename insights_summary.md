@@ -9,6 +9,23 @@ This document highlights the **key business insights** discovered using advanced
 - **Total Revenue Generated:**  
   The total units sold and the overall revenue give a comprehensive view of business performance. Total_Quantity = 24,87,289 and Total_Revenue = 13,02,10,063.72 this reflects a strong market presence, from overall product sales across all stores.
 
+  ## 📅 Monthly Revenue for 2024
+
+  | Month   | Revenue          |
+  |---------|------------------|
+  | Jan     | 10,949,416.27    |
+  | Feb     | 10,920,529.92    |
+  | Mar     | 11,583,597.19    |
+  | Apr     | 10,338,186.67    |
+  | May     | 11,148,962.52    |
+  | Jun     | 10,999,304.95    |
+  | Jul     | 10,838,674.50    |
+  | Aug     | 11,093,220.60    |
+  | Sep     | 10,306,668.36    |
+  | Oct     | 11,097,973.53    |
+  | Nov     | 10,379,008.78    |
+  | Dec     | 10,554,520.43    |
+
 - **Seasonality Effects Identified:**  
   Demand shows variation across 3 distinct seasonality factors such as Holiday, Weekday & Festival.
 
