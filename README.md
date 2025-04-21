@@ -81,7 +81,7 @@ sql-retail-analysis
 ## 👤 Author
 
 **Meshva Patel**  
-Data Analyst | Python | SQL Developer | Retail Data Enthusiast  
+Python | Data Analyst | SQL Developer | Retail Data Enthusiast  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/meshva-patel-8750b02b7)
 
 ---
