@@ -83,12 +83,7 @@ Hi, I’m **Meshva Patel**
 
 A **Data Analyst** and **aspiring Data Scientist** with a passion for uncovering stories hidden in data. My journey is all about exploring how data shapes strategy, and each project helps me grow closer to that goal.  
 
----
-
-## 📬 Get in Touch  
-💼 [LinkedIn](https://www.linkedin.com/in/meshvaapatel/)  
-💻 [GitHub](https://github.com/meshvaapatel/)  
-📧 meshvapatel.ds@gmail.com  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meshvaapatel/) or explore more of my work on [GitHub](https://github.com/meshvaapatel/), or reach out via email at meshvapatel.ds@gmail.com.
 
 ---
 
