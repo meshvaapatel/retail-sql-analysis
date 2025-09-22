@@ -80,9 +80,8 @@ sql-retail-analysis
 
 ## 🌟 About Me  
 Hi, I’m **Meshva Patel**
-A **Data Analyst** and **aspiring Data Scientist** with a passion for uncovering stories hidden in data.  
 
-I enjoy working end-to-end: from **scraping and cleaning messy datasets** to **analyzing patterns and building dashboards** that turn numbers into decisions. My journey is all about exploring how data shapes strategy, and each project helps me grow closer to that goal.  
+A **Data Analyst** and **aspiring Data Scientist** with a passion for uncovering stories hidden in data. My journey is all about exploring how data shapes strategy, and each project helps me grow closer to that goal.  
 
 ---
 
