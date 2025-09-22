@@ -1,4 +1,4 @@
-# INVENTORY OPTIMIZATION FOR RETAIL-sql-analysis
+# 📊 INVENTORY OPTIMIZATION FOR RETAIL-sql-analysis
 This project is an end-to-end SQL analysis of a retail business using real-world datasets. It showcases practical SQL skills applied to demand forecasting, pricing optimization, inventory management, and performance evaluation.
 
 ---
@@ -78,11 +78,17 @@ sql-retail-analysis
 
 ---
 
-## 👤 Author
+## 🌟 About Me  
+Hi, I’m **Meshva Patel** — a **Data Analyst** and **aspiring Data Scientist** with a passion for uncovering stories hidden in data.  
 
-**Meshva Patel**  
-Python | Data Analyst | SQL Developer | Retail Data Enthusiast  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/meshva-patel-8750b02b7)
+I enjoy working end-to-end: from **scraping and cleaning messy datasets** to **analyzing patterns and building dashboards** that turn numbers into decisions. My journey is all about exploring how data shapes strategy, and each project helps me grow closer to that goal.  
+
+---
+
+## 📬 Get in Touch  
+💼 [LinkedIn](https://www.linkedin.com/in/meshvaapatel/)  
+💻 [GitHub](https://github.com/meshvaapatel/)  
+📧 meshvapatel.ds@gmail.com  
 
 ---
 
